@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+    height: 70vh;
+    align-items: center;
+    margin: 100px;
+}
+
+.item{
+    padding: 10px;
+}
+
+h2{
+    background-color: rgb(88, 83, 83);
+    color: grey;
+    margin: 0;
+}
+
+h1{
+    background-color: black;
+    color: grey;
+    margin: 0;
+}
+
