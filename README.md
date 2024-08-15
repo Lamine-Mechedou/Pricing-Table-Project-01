@@ -1,0 +1,2 @@
+This is the first part of a website that contains many projects. One section of those projects is a collection of styled layouts for pricing tables and this is the first layout inspired from: https://preview.codecanyon.net/item/css3-responsive-wordpress-compare-pricing-tables/full_screen_preview/629172?_ga=2.74084562.1175567721.1723753492-962983129.1723753492
+More layouts for inspiration can be found here: https://webdesign.tutsplus.com/10-elegant-css-pricing-tables-for-your-latest-web-project--cms-29070a
